@@ -1,2 +1,0 @@
-# Mosse Cyber Security
-
