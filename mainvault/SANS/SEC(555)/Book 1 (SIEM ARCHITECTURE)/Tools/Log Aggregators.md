@@ -1,3 +1,0 @@
-- logstash
-    - opensource 
-    - good community support

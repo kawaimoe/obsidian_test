@@ -1,2 +1,0 @@
- - After a artifact is found through search save it as a report with a naming convention (e.g analyst4_initiallaccess_failedlogin)
-- Splunk alert using webhooks function for either rocket chat (support available) or ticketing system
