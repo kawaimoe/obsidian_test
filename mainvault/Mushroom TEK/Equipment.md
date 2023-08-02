@@ -1,0 +1,20 @@
+- [ ] 1/2 pint wide mouth canning jars
+- [ ] Pot/Pressure cooker
+- [ ] Vermiculite
+- [ ] Perlite
+- [ ] Brown rice/Brow Rice Flour
+- [ ] Tin foil
+- [ ] 70% Iso alcohol
+- [ ] Plastic Container 
+- [ ] 6500K florescent bulb
+- [ ] lamp to use bulb
+- [ ] 1/4 inch drill bit/Drill
+- [ ] Hammer/Nail
+- [ ] Mixing bowl and spoon
+- [ ] Gypsum
+- [ ] Spore syringe
+- [ ] Latex gloves
+- [ ] face mask
+- [ ] Lighter
+- [ ] water spray bottle
+- [ ] demineralized water

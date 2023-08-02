@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "72043d209b91c499",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cccf10562a7d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502ae0408bd2c31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs/privilege escalation/Windows/impersonation tokens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "231dc111c4200712",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39cd0ba1997df79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaba3b7bbf56a48a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a59e0a6ad3ce6951",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4c83e00c1aaf18d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "e2e6c569ae8981be",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de039d3f222f2e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8de61cca1245e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTFs/privilege escalation/Windows/impersonation tokens.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "828212dfee03d2e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTFs/privilege escalation/Windows/impersonation tokens.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962ee53631d3305a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "498a888971ad9c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTFs/privilege escalation/Windows/impersonation tokens.md"
+              }
+            }
+          },
+          {
+            "id": "a04bc68027558ce9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "502ae0408bd2c31e",
+  "lastOpenFiles": [
+    "CTFs/Initial Access/jenkins-windows.md",
+    "CTFs/Initial Access",
+    "CTFs/privilege escalation/Windows/impersonation tokens.md",
+    "Splunk eLearning/Master doc.md",
+    "Splunk eLearning/attatchments/Screenshot 2023-07-26 at 11.16.08.png",
+    "Splunk eLearning/attatchments/Screenshot 2023-07-26 at 11.15.02.png",
+    "Splunk eLearning/attatchments/Screenshot 2023-07-26 at 11.11.35.png",
+    "Playbook/Ideas - Splunk.md",
+    "Splunk eLearning/attatchments/Screenshot 2023-07-25 at 11.10.03.png",
+    "Splunk eLearning/attatchments",
+    "Velociraptor/01 Velociraptor Installation and Overview/Agentless linux client install.md",
+    "Playbook",
+    "Untitled.md",
+    "PV (TO-DO).md",
+    "Splunk eLearning",
+    "CTFs/privilege escalation/Windows/powerup script.md",
+    "CTFs/privilege escalation/Linux/Non-full path commands in binaries.md",
+    "Velociraptor/01 Velociraptor Installation and Overview/Full Install Velociraptor Server & Client.md",
+    "Velociraptor/01 Velociraptor Installation and Overview/Full Install Velocriraptor client+server.md",
+    "Velociraptor/01 Velociraptor Installation and Overview/install server.md",
+    "Velociraptor/01 Velociraptor Installation and Overview/Troubleshooting.md",
+    "Velociraptor/01 Velociraptor Installation and Overview/velociraptor user.md",
+    "Velociraptor/01 Velociraptor Installation and Overview/creating clients.md",
+    "CTFs/privilege escalation/Linux/SUID.md",
+    "CTFs/privilege escalation/Linux/NFS shares.md",
+    "CTFs/privilege escalation/Linux/SUDO.md",
+    "CTFs/privilege escalation/Linux/Enumeration.md",
+    "CTFs/privilege escalation/Linux/Capabilities.md",
+    "CTFs/privilege escalation/Linux/CronTab.md",
+    "Exercise/Splunk Fundamentals.md",
+    "Exercise/Services Locations.md",
+    "Exercise/Troubleshooting.md",
+    "SANS/SEC586/Main Doc/SEC586.md",
+    "Exercise",
+    "baseline_script/scripts/template-function.ps1",
+    "baseline_script/scripts/test-psremoting.ps1",
+    "baseline_script/scripts/Open connections/baseline_script 1.ps1",
+    "baseline_script/scripts/baseline_script.ps1",
+    "baseline_script/scripts/Open connections/Function Find-Evil {.ps1",
+    "Pasted image 20230524215817.png",
+    "Pasted image 20230523173310.png",
+    "Pasted image 20230524173554.png",
+    "Pasted image 20230524214422.png",
+    "Pasted image 20230523183447.png",
+    "Untitled.canvas",
+    "SANS/SEC586/Main Doc/Untitled.canvas",
+    "SANS/SEC586/Main Doc/attatchments/Pasted image 20230531153210.png"
+  ]
+}

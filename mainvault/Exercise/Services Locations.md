@@ -1,0 +1,8 @@
+ - Kibana – https://192.168.1.92/app/kibana
+ - Splunk – http://192.168.1.120:8000
+ - CyberLens – http://192.168.1.98
+ - OpenVAS – https://192.168.1.105
+ - Collaboration Tools
+	 - Nextcloud – https://192.168.1.85:4455
+	 - Redmine – http://192.168.1.85:4000
+	 - Whiteboard – http://192.168.1.85:8040

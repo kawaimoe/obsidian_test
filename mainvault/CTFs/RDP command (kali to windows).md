@@ -1,0 +1,1 @@
+xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:&lt;ip_address&gt; /u:&lt;username&gt; /p:'&lt;password&gt;'

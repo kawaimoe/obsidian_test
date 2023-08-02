@@ -1,0 +1,1 @@
+`wpsan --url <ip_address> --enumerate u`

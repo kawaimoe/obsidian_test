@@ -1,0 +1,47 @@
+- Site-to-site IPsec VPN
+    - from one site (domain environment) to another
+    - over public internet 
+    - cisco asa firewalls
+- remote-access IPsec VPN
+    - remote working etc
+    - usually requires remote software
+    - application is responsible for encryption usually
+    - can have SSL, (clientless)
+        - launch browser access site
+        - http over ssl
+- Main protocols:
+    - encapsulating Security Payload (ESP)
+        - optionaly authentication
+        - suppoerts DES 3DES AES
+        - **transport mode = payload encrypted**
+        - **tunnel mode = Entire packet encrypted**
+    - Authentication Header (AH)
+        - authenticate IP traffic
+        - verify traffic source
+        - no encryption
+        - apply key hash function (HMAC)
+        - md5 or sha
+- Internet Key Exchange (IKE):
+    - used to negotiate VPN tunnels ISKAMP
+    - **Phase 1**: negotiates ISAKAMP main mode or aggressive mode(clear text)
+        - **Exchange 1:** negotiate security policy (security association)
+        - must match 5 parameters:
+            - **Hash algorithm**
+            - **Authentication method**
+            - **Group number**
+            - **Lifetime value**
+            - **Encryption algorithm**
+        - **Exchange 2:** uses diffie-helman key exchange, sends nonces for identity proof
+        - **Exchange 3: **peer identity validation
+    - **Phase 2: **negotiates IPsec, (Quick Mode)
+        - IPsec SA
+        - Transform set:
+            - data encryption
+            - data authentication
+            - encapsulation mode 
+        - IKE version 2:
+            - supports
+                - nat traversal
+                - EAP between VPN peers
+                - Less overhead
+                - shorter creation delay

@@ -1,0 +1,3 @@
+- `whois`
+- `dig`,  `nslookup`,  `host`
+- `traceroute`/`tracert`

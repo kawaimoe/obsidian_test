@@ -1,0 +1,8 @@
+- What is the largest drawback to standard SIEM agents?
+    - The largest drawback to standard SIEM agents is that they lack filtering capabilities at the agent. Where's the Filter (WTF) is a real problem, as all logs are sent to an aggregator for filtering—meaning the network bandwidth and devices must be large enough to handle this. It also means the log aggregator must be sized to handle this amount of data.
+- A network engineer is tasked with deploying log agents configured to send data across the network via syslog over TCP. Which of the following is a limitation of syslog that should be kept in mind?
+    - The majority of systems are limited in message size. Syslog over TCP is often limited to 4096 bytes
+- Which input plugin was created to ingest logs from databases directly into Logstash?
+    - The plugin that enables logs to be pulled from MSSQL and MySQL is jdbc. Key systems (such as endpoint security suites) sometimes store logs directly inside a database. As a result, you need a means to pull these log data; the solution is to use jdbc to compete the task.
+- In cloud systems and cloud-hosted software solutions, which technique is the most useful (sometimes the only) way to collect log data from the cloud environment?
+    - With cloud systems or cloud-hosted software solutions, the only way to collect log data is often to use scripting. When systems are hosted on cloud platforms that do not have logging capabilities available, the organization's only option may be to obtain logs via scripts utilizing APIs provided.

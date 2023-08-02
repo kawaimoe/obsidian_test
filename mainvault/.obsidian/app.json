@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./attatchments",
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

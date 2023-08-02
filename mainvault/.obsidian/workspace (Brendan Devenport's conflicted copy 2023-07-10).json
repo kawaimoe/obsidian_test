@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "72043d209b91c499",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cccf10562a7d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2c65c3b7f61bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs/privilege escalation/Linux/SUID.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "231dc111c4200712",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39cd0ba1997df79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaba3b7bbf56a48a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a59e0a6ad3ce6951",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4c83e00c1aaf18d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "e2e6c569ae8981be",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de039d3f222f2e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8de61cca1245e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTFs/privilege escalation/Linux/SUID.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "828212dfee03d2e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTFs/privilege escalation/Linux/SUID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962ee53631d3305a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "498a888971ad9c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTFs/privilege escalation/Linux/SUID.md"
+              }
+            }
+          },
+          {
+            "id": "a04bc68027558ce9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8e2c65c3b7f61bd6",
+  "lastOpenFiles": [
+    "Velociraptor/01 Velociraptor Installation and Overview/Full Install Velociraptor Server & Client.md",
+    "CTFs/privilege escalation/Linux/NFS shares.md",
+    "CTFs/privilege escalation/Linux/SUDO.md",
+    "CTFs/privilege escalation/Linux/SUID.md",
+    "CTFs/privilege escalation/Linux/Enumeration.md",
+    "CTFs/privilege escalation/Linux/Capabilities.md",
+    "CTFs/privilege escalation/Linux/CronTab.md",
+    "Exercise/Splunk Fundamentals.md",
+    "Exercise/Services Locations.md",
+    "Exercise/Troubleshooting.md",
+    "SANS/SEC586/Main Doc/SEC586.md",
+    "Exercise/Zeek.md",
+    "Exercise/Exercise Points.md",
+    "baseline_script/scripts/GPO objects + settings/GPO objects + settings.md",
+    "Exercise",
+    "baseline_script/scripts/Peripheral devices/Peripheral devices.md",
+    "baseline_script/SANS baseline content.md",
+    "baseline_script/scripts/Registry (autoruns)/Registry (autoruns).md",
+    "baseline_script/scripts/Services (hash, path)/Services (hash, path).md",
+    "PV (TO-DO).md",
+    "baseline_script/scripts/template-function.ps1",
+    "baseline_script/scripts/test-psremoting.ps1",
+    "baseline_script/scripts/Users & Groups (local, AD)/Users & Groups (local, AD).md",
+    "baseline_script/requirments/Baseline Requirements.md",
+    "baseline_script/scripts/Computer info/Computer info.md",
+    "baseline_script/scripts/Open connections/Open connections.md",
+    "baseline_script/scripts/Open connections/baseline_script 1.ps1",
+    "baseline_script/scripts/baseline_script.ps1",
+    "SANS/SEC586/SANS baseline content 1.md",
+    "baseline_script/scripts/Open connections/Function Find-Evil {.ps1",
+    "baseline_script/scripts/Open connections/open_connections.ps1",
+    "baseline_script/scripts/Open connections/open_connections",
+    "baseline_script/scripts/Processes/function get-rootparentprocess {.ps1",
+    "baseline_script/scripts/Ports open",
+    "baseline_script/scripts/Wmic/Wmic.md",
+    "baseline_script/scripts/Processes/Processes.md",
+    "Pasted image 20230524215817.png",
+    "Pasted image 20230523173310.png",
+    "Pasted image 20230524173554.png",
+    "Pasted image 20230524214422.png",
+    "Pasted image 20230523183447.png",
+    "Untitled.canvas",
+    "SANS/SEC586/Main Doc/Untitled.canvas",
+    "SANS/SEC586/Main Doc/attatchments/Pasted image 20230531153210.png",
+    "SANS/SEC586/Main Doc/attatchments/Pasted image 20230531143020.png",
+    "SANS/SEC586/Main Doc/attatchments/Pasted image 20230531142816.png",
+    "SANS/SEC586/Main Doc/attatchments/Pasted image 20230531142739.png",
+    "SANS/SEC586/Main Doc/attatchments/Pasted image 20230531140808.png"
+  ]
+}

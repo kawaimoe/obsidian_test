@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1684825610924,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1684825715831,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Formatting Output"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825721297,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Get-Hotfix (patch checking)"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825725355,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Analyzing Items and their Properties"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825730511,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Writing to files"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825734740,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Inspecting Network Details"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825739490,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Copying files"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825743502,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.4 Blue Team use Cases.md",
+          "subpath": "#Get-CimInstance/Get-WmiObject"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825771512,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#Modules"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825780693,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#Find Commands:"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825786863,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#Integrated .NET"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825800347,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#Object Oriented Programming"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825807135,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#.NET Objects"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825871019,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#Add-member"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825877398,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.3 Getting to know Powershell.md",
+          "subpath": "#Update-typedata"
+        },
+        {
+          "type": "file",
+          "ctime": 1684825895962,
+          "path": "SANS/SEC586/Powershell Fundamentals/1.5 Language Basics.md",
+          "subpath": "#Variables"
+        }
+      ],
+      "title": "SEC586"
+    }
+  ]
+}
